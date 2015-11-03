@@ -1,2 +1,1 @@
-# smooth_scrolling
-smooth scrolling
+[demo](http://hasschi.github.io/smooth_scrolling/)
